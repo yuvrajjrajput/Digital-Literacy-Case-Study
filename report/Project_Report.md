@@ -6,8 +6,8 @@
 
 | Field            | Details                          |
 |------------------|----------------------------------|
-| **Name**         | Anadi Rathore                    |
-| **Reg. No.**     | 25MIM10020                       |
+| **Name**         | Yuvraj Singh Jhala               |
+| **Reg. No.**     | 25MIM10033                       |
 | **Branch**       | Mtech.AI                         |
 | **Year**         | First Year (2025–2026)           |
 | **Course Code**  | CSE0001 – Digital Literacy       |

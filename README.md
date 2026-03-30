@@ -1,45 +1,67 @@
-# 📘 Digital Literacy Case Study  
-## The Digital Divide Within: From Basic Tools to Responsible Digital Citizenship  
+# Digital Literacy Portfolio
+**CSE0001 – Digital Literacy | VIT Bhopal University**
 
 ---
 
-## 👤 Author  
-**Name:** Yuvraj Singh Rajput  
-**Course:** Digital Literacy (NGMC)  
-**Institution:** VIT Bhopal University  
+## Student Details
+
+| Field      | Details                       |
+|------------|-------------------------------|
+| Name       | Yuvraj Singh Rajput           |
+| Reg. No.   | 25MIM10033                    |
+| Branch     | Mtech.AI                      |
+| Year       | First Year (2025–2026)        |
+| Course     | CSE0001 – Digital Literacy    |
+| Date       | March 2025                    |
 
 ---
 
-## 📌 About the Case Study  
-This case study explores the gap between **using digital tools** and **understanding their impact**. It highlights how students today are digitally active but often lack awareness of responsibility, ethics, and risks in online environments.
+## Project Overview
 
-Through the example of a student (Arjun), the study reflects real-life situations related to:
-- Digital identity and online presence  
-- Collaboration and academic integrity  
-- Professional communication  
-- Cyber security and online risks  
+This repository contains my Digital Literacy Portfolio completed as part of the
+CSE0001 course at VIT Bhopal University. As a Student Digital Ambassador, I have
+worked through five tasks covering digital tools, professional online presence,
+coding platforms, email etiquette, and cybercrime awareness.
 
 ---
 
-## 🎯 Objective  
-The main goal of this case study is to analyze whether students are truly **digitally literate** or just familiar with tools. It focuses on developing:
-- Critical thinking  
-- Responsible digital behavior  
-- Awareness of long-term consequences  
+## Module Summaries
+
+- **Task 1:** Created a Digital Literacy awareness infographic using Canva covering
+  what digital literacy is, useful digital tools for students, and safe internet practices.
+- **Task 2:** Set up professional profiles on GitHub, LinkedIn, and Kaggle with
+  relevant academic information.
+- **Task 3:** Completed a beginner coding challenge on HackerRank and built a
+  5-question Digital Literacy Awareness Quiz using Google Forms.
+- **Task 4:** Drafted two professional emails (assignment extension request and
+  internship application) and created a Social Media Do's and Don'ts checklist.
+- **Task 5:** Researched phishing as a cybercrime, wrote a detailed case study,
+  and created a Stay Safe Online prevention checklist for college students.
 
 ---
 
-## 🧠 Key Insights  
-- Digital competence can be an **illusion**  
-- Visibility is often prioritized over real skills  
-- Collaboration can reduce accountability  
-- Informal communication affects professionalism  
-- Awareness does not always lead to safe behavior  
+## Repository Structure
+
+```
+digital-literacy-project/
+├── README.md
+├── report/
+│   └── Project_Report.md
+├── task-1-presentation/
+│   ├── description.md
+│   └── [infographic image - upload here]
+├── task-2-portfolio/
+│   ├── reflection.md
+│   └── [profile screenshots - upload here]
+├── task-3-platforms/
+│   ├── reflection.md
+│   └── [coding challenge + form screenshots - upload here]
+├── task-4-email-etiquette/
+│   ├── emails.md
+│   └── social-media-checklist.md
+└── task-5-cybercrime/
+    ├── casestudy.md
+    └── prevention-checklist.md
+```
 
 ---
-
-## 📂 Report Details  
-- **Type:** Individual Case Study  
-- **Format:** PDF Report  
-- **Length:** 10–14 pages  
-- **Submission Platform:** VITyarthi  

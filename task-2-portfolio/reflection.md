@@ -4,9 +4,9 @@
 
 | Platform   | Profile URL                              | Purpose                              |
 |------------|------------------------------------------|--------------------------------------|
-| GitHub     | [github.com/SouL-GhosT](https://github.com/yuvrajjrajput)                  | Code repositories and projects       |
-| LinkedIn   | [linkedin.com/in/sakcham-shaw-5889513ba/](https://www.linkedin.com/in/yuvraj-singh-jhala-b827593bb/)| Professional networking              |
-| Kaggle     | [kaggle.com/sakcham25mei10005](https://www.kaggle.com/yuvraj25mim10033)                 | Data science practice and datasets   |
+| GitHub     | [github.com/Syuvrajjrajput](https://github.com/yuvrajjrajput)                  | Code repositories and projects       |
+| LinkedIn   | [linkedin.com/in/in/yuvraj-singh-jhala-b827593bb/](https://www.linkedin.com/in/yuvraj-singh-jhala-b827593bb/)| Professional networking              |
+| Kaggle     | [kaggle.com/yuvraj25mim10033](https://www.kaggle.com/yuvraj25mim10033)                 | Data science practice and datasets   |
 
 ## What I Did on Each Platform
 
